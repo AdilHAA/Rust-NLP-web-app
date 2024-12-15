@@ -4,12 +4,11 @@ model_sentiment = pipeline(model='MonoHime/rubert-base-cased-sentiment-new')
 
 def sentiment(text):
     result = model_sentiment(text[:256])[0]['label']
-    if result == 'NEUTRAL':
-        return 'Нейтральная'
-    if result == 'POSITIVE':
-        return 'Позитивная'
-    if result == 'NEGATIVE':
-        return 'Негативная'
     
-    map_sentiment = {'NEGATIVE': 'Негативная', 'NEUTRAL': 'Нейтральная', 'POSITIVE': 'Позитивная'}
+    map_sentiment = {
+        'NEGATIVE': 'Негативная',
+        'NEUTRAL': 'Нейтральная',
+        'POSITIVE': 'Позитивная'
+    }
+    
     return map_sentiment.get(result, 'Нейтральная')
