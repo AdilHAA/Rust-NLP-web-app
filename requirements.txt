@@ -1,0 +1,11 @@
+torch
+transformers
+wordcloud
+matplotlib
+yake
+nltk
+spacy
+natasha
+pymorphy2
+fastapi[all]
+pydantic

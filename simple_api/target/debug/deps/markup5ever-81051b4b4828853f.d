@@ -1,0 +1,15 @@
+D:\Rust-NLP-web-service\simple_api\target\debug\deps\libmarkup5ever-81051b4b4828853f.rmeta: C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\lib.rs C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\data\mod.rs C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\interface\mod.rs C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\interface\tree_builder.rs C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\serialize.rs C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\util\buffer_queue.rs C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\util\smallcharset.rs D:\Rust-NLP-web-service\simple_api\target\debug\build\markup5ever-d72b689487bdb185\out/generated.rs D:\Rust-NLP-web-service\simple_api\target\debug\build\markup5ever-d72b689487bdb185\out/named_entities.rs
+
+D:\Rust-NLP-web-service\simple_api\target\debug\deps\markup5ever-81051b4b4828853f.d: C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\lib.rs C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\data\mod.rs C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\interface\mod.rs C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\interface\tree_builder.rs C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\serialize.rs C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\util\buffer_queue.rs C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\util\smallcharset.rs D:\Rust-NLP-web-service\simple_api\target\debug\build\markup5ever-d72b689487bdb185\out/generated.rs D:\Rust-NLP-web-service\simple_api\target\debug\build\markup5ever-d72b689487bdb185\out/named_entities.rs
+
+C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\lib.rs:
+C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\data\mod.rs:
+C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\interface\mod.rs:
+C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\interface\tree_builder.rs:
+C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\serialize.rs:
+C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\util\buffer_queue.rs:
+C:\Users\adil\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.10.1\util\smallcharset.rs:
+D:\Rust-NLP-web-service\simple_api\target\debug\build\markup5ever-d72b689487bdb185\out/generated.rs:
+D:\Rust-NLP-web-service\simple_api\target\debug\build\markup5ever-d72b689487bdb185\out/named_entities.rs:
+
+# env-dep:OUT_DIR=D:\\Rust-NLP-web-service\\simple_api\\target\\debug\\build\\markup5ever-d72b689487bdb185\\out
